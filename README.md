@@ -1,2 +1,2 @@
-# drill_panel
-Drill
+# sdrill
+Symfony drill
